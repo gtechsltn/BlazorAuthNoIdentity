@@ -6,6 +6,8 @@ https://github.com/BitzArt/Blazor.Auth
 
 https://github.com/BitzArt/Blazor.Cookies
 
+# Git Clone
+
 https://github.com/gtechsltn/BlazorAuthNoIdentity
 
 https://github.com/gtechsltn/Blazor.Auth
